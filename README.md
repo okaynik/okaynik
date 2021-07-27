@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Nikita
+- 👀 I’m interested in Web/Mobile Development, Machine learning, Security and Digital Art.
+- 🌱 I’m currently learning Explainable Machine Learning.
